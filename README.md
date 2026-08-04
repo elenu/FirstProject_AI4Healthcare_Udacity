@@ -1,3 +1,5 @@
+This is the README file with the instructions I followed to complete this project.
+
 # Pneumonia Detection from Chest X-Rays
 
 ## Project Overview
